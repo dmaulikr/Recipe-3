@@ -89,7 +89,6 @@
 			children = (
 				1D6F8E471D2DA88B0001E5FE /* RecipeCell.swift */,
 				1D00F3B61D2AE8B7002C1BDB /* Main.storyboard */,
-				1D84BCA01D3D796B00C40FC9 /* CreateRecipeVC.swift */,
 				1D00F3BE1D2AE8B7002C1BDB /* LaunchScreen.storyboard */,
 			);
 			name = View;
@@ -98,6 +97,7 @@
 		1D6F8E421D2DA3D20001E5FE /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				1D84BCA01D3D796B00C40FC9 /* CreateRecipeVC.swift */,
 				1D00F3B41D2AE8B7002C1BDB /* ViewController.swift */,
 			);
 			name = Controller;
